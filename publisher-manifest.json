@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "92c3fbb1c8709844c268be61",
+  "owner": "tpgkwnxj3",
+  "repo": "tpgkwnxj3.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "7d4a7dada0af6932a6474335",
+      "a": "速蛙云(fasterfrog)",
+      "b": "首页",
+      "entity": "速蛙云(fasterfrog)",
+      "brand": "首页",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "102b55320157716ed649067b7959fda5a91c4ef520fb3dbc546835d6ed745b58",
+      "content": {
+        "primary_entity": "速蛙云(fasterfrog)",
+        "keyword1": "速蛙云(fasterfrog)",
+        "keyword2": "首页",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据手机、电脑或路由器选择对应客户端，并依照文档完成订阅配置。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "先确认设备数量和常用场景，再挑选适合的套餐并完成订阅配置。",
+          "AI_CLOSING_TITLE": "选好套餐再连接",
+          "AI_DESCRIPTION": "，面向需要稳定海外网络连接的用户，提供基础版、旗舰版与团队版三档套餐。基础版适合轻度浏览，旗舰版兼顾流媒体与游戏加速，团队版面向多设备协作。按年付可享优惠，客户端覆盖手机、电脑与路由器，配置流程清晰。",
+          "AI_FEATURES_INTRO": "从设备数量与使用场景出发，选择匹配的套餐和订阅周期。",
+          "AI_FEATURES_TITLE": "套餐与设备选择",
+          "AI_FEATURE_TEXT_1": "基础版提供适量高速流量，支持少量设备同时在线，适合轻度浏览与日常办公。",
+          "AI_FEATURE_TEXT_2": "旗舰版提供充足高速流量，支持多台设备，含IPLC专线游戏加速与流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版提供大额高速流量，支持多台设备，含VIP高带宽节点与定制路由支持。",
+          "AI_FEATURE_TITLE_1": "基础版适合轻度使用",
+          "AI_FEATURE_TITLE_2": "旗舰版兼顾速度与稳定",
+          "AI_FEATURE_TITLE_3": "团队版多人协作",
+          "AI_GUIDE_INTRO": "按步骤完成服务选择与客户端配置。",
+          "AI_GUIDE_TITLE": "配置流程",
+          "AI_HERO_INTRO": "速蛙云提供基础版、旗舰版与团队版三档海外加速套餐，覆盖手机、电脑和路由器等设备。根据设备数量与流量需求选择套餐，按年付可享优惠，配置步骤清晰。",
+          "AI_HERO_SUBTITLE": "按设备与需求选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐灵活可选",
+          "AI_HIGHLIGHT_2": "按年付更优惠",
+          "AI_HIGHLIGHT_3": "多设备同时在线",
+          "AI_PLANS_INTRO": "根据设备数量与流量需求对比三档套餐，选择适合的订阅周期。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量和日常流量需求，在基础版、旗舰版与团队版之间选择。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备限制与功能说明，确认满足使用场景。",
+          "AI_STEP_TEXT_3": "依照对应客户端的配置文档导入订阅，完成连接设置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "速蛙云三档套餐任选",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制、套餐周期与加速场景。",
+          "AI_FAQ_QUESTION_1": "速蛙云不同套餐的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "三档套餐在流量额度、同时在线设备数量与线路类型上有区分。基础版满足轻度使用，旗舰版增加流量与专线优化，团队版面向多设备高流量场景。",
+          "AI_FAQ_QUESTION_2": "月付和年付应该怎么选？",
+          "AI_FAQ_ANSWER_2": "月付适合短期体验或使用频率不固定的情况，年付适合长期稳定使用。各档套餐都提供两种周期，按实际使用计划选择即可。",
+          "AI_FAQ_QUESTION_3": "一个套餐可以同时登录几台设备？",
+          "AI_FAQ_ANSWER_3": "基础版支持三台设备同时在线，旗舰版为五台，团队版为二十台。具体以所选套餐所列权益为准，超出数量需要升级档位。",
+          "AI_FAQ_QUESTION_4": "订阅信息如何导入客户端？",
+          "AI_FAQ_ANSWER_4": "先在设备上安装对应客户端，再依照客户端文档说明导入订阅信息。不同系统的导入方式略有差异，按文档步骤操作即可完成。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么使用场景？",
+          "AI_FAQ_ANSWER_5": "团队版面向多人协作或多设备同时使用的场景，提供较大的流量额度与专属节点，并支持定制路由与专属客户经理服务。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "613799b1557f5df9a0d1b7bd3b3a4ce0cbd7de70fa38209c4a3bedd4c80e1901",
+    "sitemap.xml": "8fae178d8c29cd73ed5a0d12f7637a19db261292eb5857fddaf89ac672641011",
+    "robots.txt": "9693a8278769eeb7ebd0c892e00c0c4235c392c04a34fd35fd78412fdf948722",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "b7945c5049cc6eccdad8871dce9f74f46d565343b7fa43bb0fd1435a3df1f3c6"
+}
